@@ -8,7 +8,6 @@ const App = () => {
             <CommentDetail />
             <CommentDetail />
             <CommentDetail />
-           
         </div>
     );
 };
